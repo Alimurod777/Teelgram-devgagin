@@ -10,3 +10,6 @@ requests
 speedtest-cli
 pymongo
 yt-dlp
+flask
+gunicorn==20.1.0
+aiohttp
